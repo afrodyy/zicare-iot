@@ -1,0 +1,850 @@
+{
+	"stations": [
+		{
+			"id": "DKI_CENDRAWASIH",
+			"nama": "DKI 12 - GOR Cendrawasih",
+			"latitude": -6.143301552250624,
+			"longitude": 106.72061039751402,
+			"value": 62.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_CILANGKAP",
+			"nama": "DKI 10 - Taman Agro Wisata Cilangkap",
+			"latitude": -6.341642335615187,
+			"longitude": 106.90156825233481,
+			"value": 69.0,
+			"timestamp": "2025-02-13T07:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_CIRACAS",
+			"nama": "DKI 9 - GOR Ciracas",
+			"latitude": -6.324831948180378,
+			"longitude": 106.86689001138608,
+			"value": 65.0,
+			"timestamp": "2025-02-15T22:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_GOMBOLPAYA",
+			"nama": "DKI 13 - Taman Maju Bersama Gombol Paya\t",
+			"latitude": -6.134634778409541,
+			"longitude": 106.6891883099439,
+			"value": 67.0,
+			"timestamp": "2025-02-18T17:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_MANGGALABISMA",
+			"nama": "DKI 6 - RPTRA Manggala Bisma",
+			"latitude": -6.127813057843073,
+			"longitude": 106.86804428721646,
+			"value": 49.0,
+			"timestamp": "2025-02-11T19:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PENJARINGAN",
+			"nama": "DKI 7 - Rusunawa Penjaringan",
+			"latitude": -6.129308030415923,
+			"longitude": 106.79575684232952,
+			"value": 60.0,
+			"timestamp": "2025-02-13T06:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_12",
+			"nama": "SDN 05 Wijaya Kusuma Pagi (ROOFTOP)",
+			"latitude": -6.160188,
+			"longitude": 106.775834,
+			"value": 60.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_13",
+			"nama": "RPTRA Tipar Asri",
+			"latitude": -6.135652,
+			"longitude": 106.920781,
+			"value": 124.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_14",
+			"nama": "SDN 04 Bintaro",
+			"latitude": -6.270335,
+			"longitude": 106.757735,
+			"value": 184.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sangat Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_15",
+			"nama": "Kantor SUDIN LH Jakarta Timur",
+			"latitude": -6.288473326519299,
+			"longitude": 106.88301373294965,
+			"value": 62.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_16",
+			"nama": "Jakarta Islamic Center (JIC)",
+			"latitude": -6.123743,
+			"longitude": 106.918003,
+			"value": 97.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_17",
+			"nama": "SDN 20 Pejaten Timur",
+			"latitude": -6.2737557,
+			"longitude": 106.850605,
+			"value": 40.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_18",
+			"nama": "SDN 02 Pagi Ujung Menteng",
+			"latitude": -6.183194,
+			"longitude": 106.960562,
+			"value": 33.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_19",
+			"nama": "SDN 18 Pekayon",
+			"latitude": -6.345559,
+			"longitude": 106.869082,
+			"value": 138.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_20",
+			"nama": "TPS 3R Siaga Pejaten Barat",
+			"latitude": -6.268989,
+			"longitude": 106.837096,
+			"value": 65.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_21",
+			"nama": "RSUD Tanjung Priok (ROOFTOP)",
+			"latitude": -6.116135,
+			"longitude": 106.888912,
+			"value": 74.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_22",
+			"nama": "Kantor Kelurahan Kapuk Muara",
+			"latitude": -6.137185,
+			"longitude": 106.764126,
+			"value": 58.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_23",
+			"nama": "SDN 12 Sunter Agung",
+			"latitude": -6.13938,
+			"longitude": 106.86716,
+			"value": 19.0,
+			"timestamp": "2025-02-18T16:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_24",
+			"nama": "Kantor Kecamatan Pulogadung",
+			"latitude": -6.198879,
+			"longitude": 106.904644,
+			"value": 157.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sangat Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_25",
+			"nama": "RSUD Cengkareng",
+			"latitude": -6.143486,
+			"longitude": 106.73485,
+			"value": 65.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_26",
+			"nama": "Asrama Universitas Indonesia",
+			"latitude": -6.348009,
+			"longitude": 106.829808,
+			"value": 75.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_27",
+			"nama": "RPTRA Manunggal Petukangan Selatan",
+			"latitude": -6.243737,
+			"longitude": 106.747235,
+			"value": 84.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_28",
+			"nama": "SDN 10 Pondok Bambu",
+			"latitude": -6.232204,
+			"longitude": 106.908,
+			"value": 218.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Berbahaya"
+		},
+		{
+			"id": "DKI_PM25_29",
+			"nama": "RPTRA Rawa Badak Utara",
+			"latitude": -6.117076,
+			"longitude": 106.896598,
+			"value": 54.0,
+			"timestamp": "2025-02-18T17:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_30",
+			"nama": "RPTRA Duren Tiga",
+			"latitude": -6.255385,
+			"longitude": 106.842706,
+			"value": 69.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_31",
+			"nama": "Puskesmas Kecamatan Duren Sawit",
+			"latitude": -6.242139,
+			"longitude": 106.910975,
+			"value": 127.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_32",
+			"nama": "Waduk Jagakarsa",
+			"latitude": -6.330155,
+			"longitude": 106.830191,
+			"value": 119.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_33",
+			"nama": "RPTRA Citra Permata",
+			"latitude": -6.221678,
+			"longitude": 106.870318,
+			"value": 138.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_34",
+			"nama": "SMP 112 Teluk Gong (ROOFTOP)",
+			"latitude": -6.135656,
+			"longitude": 106.779261,
+			"value": 106.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_35",
+			"nama": "SDN 11 Utan Kayu Utara",
+			"latitude": -6.195917,
+			"longitude": 106.86781,
+			"value": 107.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_36",
+			"nama": "SDN 04 Cibubur",
+			"latitude": -6.344574,
+			"longitude": 106.874146,
+			"value": 14.0,
+			"timestamp": "2025-02-19T00:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_37",
+			"nama": "SDN 01 Cempaka Putih Barat",
+			"latitude": -6.175124,
+			"longitude": 106.863204,
+			"value": 35.0,
+			"timestamp": "2025-02-18T17:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_38",
+			"nama": "Taman Ismail Marzuki",
+			"latitude": -6.189948,
+			"longitude": 106.839821,
+			"value": 44.0,
+			"timestamp": "2025-02-18T17:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_39",
+			"nama": "RPTRA Rawajaya",
+			"latitude": -6.233693,
+			"longitude": 106.943486,
+			"value": 118.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_40",
+			"nama": "SDN 01 Manggarai",
+			"latitude": -6.212814,
+			"longitude": 106.856324,
+			"value": 25.0,
+			"timestamp": "2025-02-18T00:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_41",
+			"nama": "Kantor Walikota Jakarta Utara (ROOFTOP)",
+			"latitude": -6.1201855,
+			"longitude": 106.8925052,
+			"value": 35.0,
+			"timestamp": "2025-02-18T18:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_42",
+			"nama": "Taman Sutoyo",
+			"latitude": -6.257937,
+			"longitude": 106.870456,
+			"value": 94.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_43",
+			"nama": "RPTRA Kebon Melati",
+			"latitude": -6.200209,
+			"longitude": 106.814043,
+			"value": 92.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_44",
+			"nama": "RPTRA Kalijodo",
+			"latitude": -6.142839,
+			"longitude": 106.790256,
+			"value": 77.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_45",
+			"nama": "SDN 11 Kalibata",
+			"latitude": -6.2615869,
+			"longitude": 106.8421225,
+			"value": 77.0,
+			"timestamp": "2025-02-18T15:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_46",
+			"nama": "SDN 10 Johar Baru Pagi",
+			"latitude": -6.18121,
+			"longitude": 106.860386,
+			"value": 57.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_47",
+			"nama": "SDN 12 Gedong",
+			"latitude": -6.301248,
+			"longitude": 106.856648,
+			"value": 151.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sangat Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_48",
+			"nama": "RPTRA Mawar",
+			"latitude": -6.297187,
+			"longitude": 106.770068,
+			"value": 72.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_49",
+			"nama": "RPTRA Harapan Mulia",
+			"latitude": -6.169828,
+			"longitude": 106.855026,
+			"value": 75.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_50",
+			"nama": "Kantor LLHD Jakarta Selatan (ROOFTOP)",
+			"latitude": -6.225848,
+			"longitude": 106.834948,
+			"value": 117.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_51",
+			"nama": "RPTRA Udara Segar",
+			"latitude": -6.282609,
+			"longitude": 106.863509,
+			"value": 39.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_52",
+			"nama": "Padepokan Restu Bumi Asrama Ciracas",
+			"latitude": -6.316993,
+			"longitude": 106.874609,
+			"value": 40.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_53",
+			"nama": "SDN 02 Petukangan Selatan",
+			"latitude": -6.243553,
+			"longitude": 106.760206,
+			"value": 77.0,
+			"timestamp": "2025-02-18T22:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_54",
+			"nama": "SMPN 179 Jakarta",
+			"latitude": -6.331141,
+			"longitude": 106.852423,
+			"value": 117.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_55",
+			"nama": "RPTRA Melati Duri Pulo",
+			"latitude": -6.163207,
+			"longitude": 106.809255,
+			"value": 17.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_56",
+			"nama": "SDN 01 Sukapura",
+			"latitude": -6.150574,
+			"longitude": 106.921919,
+			"value": 145.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_57",
+			"nama": "RSUD Cipayung",
+			"latitude": -6.307085,
+			"longitude": 106.905332,
+			"value": 2.0,
+			"timestamp": "2025-02-17T13:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_58",
+			"nama": "RPTRA Pandawa",
+			"latitude": -6.184001,
+			"longitude": 106.763099,
+			"value": 5.0,
+			"timestamp": "2025-02-17T06:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_59",
+			"nama": "Komplek Dinas Kebersihan Tegal Alur",
+			"latitude": -6.128056,
+			"longitude": 106.718611,
+			"value": 85.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_60",
+			"nama": "TMB Dupa Indah",
+			"latitude": -6.171999,
+			"longitude": 106.775773,
+			"value": 65.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_61",
+			"nama": "SDN 03 Cijantung",
+			"latitude": -6.319594,
+			"longitude": 106.851231,
+			"value": 78.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_62",
+			"nama": "RPTRA Ria Damkar Joglo 2",
+			"latitude": -6.218870554775621,
+			"longitude": 106.72331874013835,
+			"value": 73.0,
+			"timestamp": "2025-02-18T19:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_63",
+			"nama": "SDN 06 Makasar",
+			"latitude": -6.279235,
+			"longitude": 106.880195,
+			"value": 131.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_64",
+			"nama": "SMPN 88 Jakarta (ROOFTOP)",
+			"latitude": -6.19306,
+			"longitude": 106.794973,
+			"value": 121.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_65",
+			"nama": "RPTRA Amir Hamzah",
+			"latitude": -6.2033,
+			"longitude": 106.850242,
+			"value": 77.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_66",
+			"nama": "Kantor SUDIN LH Jakarta Selatan (ROOFTOP)",
+			"latitude": -6.272876,
+			"longitude": 106.831279,
+			"value": 72.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_67",
+			"nama": "RPTRA Taman Pinus",
+			"latitude": -6.140051,
+			"longitude": 106.917764,
+			"value": 62.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_68",
+			"nama": "Kantor Walikota Jakbar",
+			"latitude": -6.185896,
+			"longitude": 106.737634,
+			"value": 72.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_69",
+			"nama": "Taman Maju Bersama (TMB) Tanjung Duren",
+			"latitude": -6.166959,
+			"longitude": 106.786776,
+			"value": 68.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_70",
+			"nama": "SPKU DKI Kelapa Gading",
+			"latitude": -6.1537206,
+			"longitude": 106.9109397,
+			"value": 72.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_71",
+			"nama": "Rusunawa KS TUBUN",
+			"latitude": -6.1865608,
+			"longitude": 106.8096856,
+			"value": 64.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_72",
+			"nama": "SDN 18 Cipinang Muara",
+			"latitude": -6.236803,
+			"longitude": 106.889094,
+			"value": 102.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_73",
+			"nama": "Sudin LH Jakpus",
+			"latitude": -6.185583,
+			"longitude": 106.873987,
+			"value": 97.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_74",
+			"nama": "RPTRA Penjaringan Indah",
+			"latitude": -6.134137,
+			"longitude": 106.795785,
+			"value": 65.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_75",
+			"nama": "RPTRA Jaya Molek",
+			"latitude": -6.159806,
+			"longitude": 106.830183,
+			"value": 106.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_76",
+			"nama": "RPTRA Anggrek Bintaro",
+			"latitude": -6.264257,
+			"longitude": 106.770436,
+			"value": 94.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_77",
+			"nama": "Kantor Suku Dinas Lingkungan Hidup Jakarta Barat",
+			"latitude": -6.152565907289195,
+			"longitude": 106.77246899531183,
+			"value": 42.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_78",
+			"nama": "RPTRA Pulobesar",
+			"latitude": -6.15562,
+			"longitude": 106.880943,
+			"value": 12.0,
+			"timestamp": "2025-02-18T01:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_79",
+			"nama": "SDN 07 Paseban (ROOFTOP)",
+			"latitude": -6.1934228,
+			"longitude": 106.8553405,
+			"value": 71.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_80",
+			"nama": "Kamal Park",
+			"latitude": -6.102668,
+			"longitude": 106.700401,
+			"value": 95.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_81",
+			"nama": "RPTRA Rorotan Indah 2",
+			"latitude": -6.156868,
+			"longitude": 106.955973,
+			"value": 125.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Tidak Sehat"
+		},
+		{
+			"id": "DKI_PM25_82",
+			"nama": "SDN 07 Peganggsaan Dua",
+			"latitude": -6.175007,
+			"longitude": 106.911456,
+			"value": 62.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_83",
+			"nama": "RPTRA Gading Tarian",
+			"latitude": -6.171162,
+			"longitude": 106.907712,
+			"value": 79.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_84",
+			"nama": "RPTRA Kenanga Cideng ",
+			"latitude": -6.167090919414936,
+			"longitude": 106.80750459548157,
+			"value": 96.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_85",
+			"nama": "SDN 03 Kebayoran Lama Utara",
+			"latitude": -6.250298,
+			"longitude": 106.776891,
+			"value": 97.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_86",
+			"nama": "Kantor Kecamatan Jatinegara (ROOFTOP)",
+			"latitude": -6.227984,
+			"longitude": 106.874547,
+			"value": 59.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PM25_87",
+			"nama": "SDN 01 Pondok Kelapa Pagi",
+			"latitude": -6.239175,
+			"longitude": 106.932967,
+			"value": 19.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Baik"
+		},
+		{
+			"id": "DKI_PM25_88",
+			"nama": "SDN 04 Cipinang Melayu",
+			"latitude": -6.251542,
+			"longitude": 106.917473,
+			"value": 67.0,
+			"timestamp": "2025-02-19T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_PULOMAS",
+			"nama": "DKI 11 - Pacuan Kuda Pulo Mas",
+			"latitude": -6.17846467732303,
+			"longitude": 106.88717854232955,
+			"value": 81.0,
+			"timestamp": "2025-02-13T05:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_RAGUNAN",
+			"nama": "DKI 8 - PPOP Ragunan",
+			"latitude": -6.304420728716271,
+			"longitude": 106.8289196394899,
+			"value": 76.0,
+			"timestamp": "2025-02-13T09:00:00",
+			"category": "Sedang"
+		},
+		{
+			"id": "DKI_TANJONGTIMOR",
+			"nama": "DKI 14 - RPTRA Tanjong Timor Pulau Panggang\t",
+			"latitude": -5.741774124848568,
+			"longitude": 106.60386650063936,
+			"value": 26.0,
+			"timestamp": "2025-02-13T10:00:00",
+			"category": "Baik"
+		}
+	],
+	"interpolation": {
+		"grid_values": [
+			[
+				0.0, 0.0, 0.0, 0.0, 0.0, 0.001875374421763514, 0.0673113183153635, 0.004654026239549983,
+				3.353785163297874e-7, 0.0
+			],
+			[
+				0.0, 0.0, 0.0, 6.451928456790675e-9, 26.995588838043115, 0.08867228392736716,
+				59.581492107583195, 4.591548478649223, 3.726689603379936e-5, 0.0
+			],
+			[
+				0.0, 0.0, 0.0, 31.919753521008452, 1.8518448325923889, 0.10572496770702546,
+				20.19930487403787, 28.520058063484434, 30.07247375420521, 5.470959489074549e-5
+			],
+			[
+				0.0, 0.0, 0.13957280327859098, 17.02393994803454, 9.804755151471468, 0.0, 4.937863315103976,
+				4.338287608677189, 19.875136942139704, 0.2465319538033464
+			],
+			[
+				0.0, 0.0, 0.00025218974699743656, 0.0675302753265434, 0.0, 1.3645272217132346e-9, 0.0,
+				0.000468548669673873, 1.9979873541511455e-8, 0.0
+			],
+			[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+			[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+			[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+			[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+			[0.008722028325480677, 0.0014458520464779817, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+		],
+		"bounds": {
+			"north": -6.1,
+			"south": -6.4,
+			"east": 107.0,
+			"west": 106.7
+		}
+	},
+	"metadata": {
+		"bounds": {
+			"north": -6.1,
+			"south": -6.4,
+			"east": 107.0,
+			"west": 106.7
+		},
+		"categories": {
+			"Baik": {
+				"min": 0,
+				"max": 50,
+				"color": "#4CAF50"
+			},
+			"Sedang": {
+				"min": 51,
+				"max": 100,
+				"color": "#2196F3"
+			},
+			"Tidak Sehat": {
+				"min": 101,
+				"max": 150,
+				"color": "#FFC107"
+			},
+			"Sangat Tidak Sehat": {
+				"min": 151,
+				"max": 200,
+				"color": "#FF5722"
+			},
+			"Berbahaya": {
+				"min": 201,
+				"max": 500,
+				"color": "#9C27B0"
+			}
+		},
+		"timestamp": "2025-02-27T14:09:42.164883",
+		"parameter": "pm25"
+	}
+}

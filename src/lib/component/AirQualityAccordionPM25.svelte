@@ -14,7 +14,6 @@
 
 	export let metric;
 	export let selectedValue;
-	export let selectedConcentrateValue = null;
 	export let chartId;
 	export let chartDataLength;
 	export let selectedTimeRange = 'daily';

@@ -198,7 +198,7 @@
 			if (selectedRoomLength === 0 || startDate === '' || endDate === '') {
 				if (selectedRoomLength === 0) {
 					validation.field = 'station';
-					validation.message = 'Pilih stasiun terlebih dahulu!';
+					validation.message = 'Pilih lokasi terlebih dahulu!';
 				} else if (startDate === '') {
 					validation.field = 'startDate';
 					validation.message = 'Pilih tanggal mulai terlebih dahulu!';
